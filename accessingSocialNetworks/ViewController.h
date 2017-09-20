@@ -10,6 +10,14 @@
 
 @interface ViewController : UIViewController
 
+- (IBAction)youtube:(UIButton *)sender;
+
+
+
+
+- (IBAction)facebook:(UIButton *)sender;
+- (IBAction)twitter:(UIButton *)sender;
+- (IBAction)aboutme:(UIButton *)sender;
 
 @end
 

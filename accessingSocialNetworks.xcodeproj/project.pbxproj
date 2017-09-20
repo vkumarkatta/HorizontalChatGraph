@@ -7,15 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F94B9881F63F0CC00B25C0F /* fire image.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F94B9871F63F0CC00B25C0F /* fire image.png */; };
 		3FD4AFFF1F4E9BA9000200B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4AFFE1F4E9BA9000200B5 /* main.m */; };
 		3FD4B0021F4E9BA9000200B5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4B0011F4E9BA9000200B5 /* AppDelegate.m */; };
 		3FD4B0051F4E9BA9000200B5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FD4B0041F4E9BA9000200B5 /* ViewController.m */; };
 		3FD4B0081F4E9BA9000200B5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B0061F4E9BA9000200B5 /* Main.storyboard */; };
 		3FD4B00A1F4E9BA9000200B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B0091F4E9BA9000200B5 /* Assets.xcassets */; };
 		3FD4B00D1F4E9BA9000200B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B00B1F4E9BA9000200B5 /* LaunchScreen.storyboard */; };
+		3FD4B0151F4EA663000200B5 /* youtube.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B0141F4EA662000200B5 /* youtube.jpeg */; };
+		3FD4B0171F4EA66A000200B5 /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B0161F4EA66A000200B5 /* facebook.png */; };
+		3FD4B0191F4EA66F000200B5 /* twitter.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B0181F4EA66F000200B5 /* twitter.jpeg */; };
+		3FD4B01B1F4EB04C000200B5 /* about me.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FD4B01A1F4EB04C000200B5 /* about me.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F94B9871F63F0CC00B25C0F /* fire image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fire image.png"; sourceTree = "<group>"; };
 		3FD4AFFA1F4E9BA9000200B5 /* accessingSocialNetworks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accessingSocialNetworks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FD4AFFE1F4E9BA9000200B5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3FD4B0001F4E9BA9000200B5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -26,6 +32,10 @@
 		3FD4B0091F4E9BA9000200B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FD4B00C1F4E9BA9000200B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FD4B00E1F4E9BA9000200B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FD4B0141F4EA662000200B5 /* youtube.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = youtube.jpeg; sourceTree = "<group>"; };
+		3FD4B0161F4EA66A000200B5 /* facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebook.png; sourceTree = "<group>"; };
+		3FD4B0181F4EA66F000200B5 /* twitter.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twitter.jpeg; sourceTree = "<group>"; };
+		3FD4B01A1F4EB04C000200B5 /* about me.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "about me.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +72,11 @@
 				3FD4B0011F4E9BA9000200B5 /* AppDelegate.m */,
 				3FD4B0031F4E9BA9000200B5 /* ViewController.h */,
 				3FD4B0041F4E9BA9000200B5 /* ViewController.m */,
+				3FD4B0141F4EA662000200B5 /* youtube.jpeg */,
+				3FD4B0161F4EA66A000200B5 /* facebook.png */,
+				3FD4B0181F4EA66F000200B5 /* twitter.jpeg */,
+				3F94B9871F63F0CC00B25C0F /* fire image.png */,
+				3FD4B01A1F4EB04C000200B5 /* about me.jpeg */,
 				3FD4B0061F4E9BA9000200B5 /* Main.storyboard */,
 				3FD4B0091F4E9BA9000200B5 /* Assets.xcassets */,
 				3FD4B00B1F4E9BA9000200B5 /* LaunchScreen.storyboard */,
@@ -138,8 +153,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FD4B00D1F4E9BA9000200B5 /* LaunchScreen.storyboard in Resources */,
+				3FD4B0151F4EA663000200B5 /* youtube.jpeg in Resources */,
+				3F94B9881F63F0CC00B25C0F /* fire image.png in Resources */,
+				3FD4B0171F4EA66A000200B5 /* facebook.png in Resources */,
 				3FD4B00A1F4E9BA9000200B5 /* Assets.xcassets in Resources */,
+				3FD4B01B1F4EB04C000200B5 /* about me.jpeg in Resources */,
 				3FD4B0081F4E9BA9000200B5 /* Main.storyboard in Resources */,
+				3FD4B0191F4EA66F000200B5 /* twitter.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -309,6 +329,7 @@
 				3FD4B0131F4E9BA9000200B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
